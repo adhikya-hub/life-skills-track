@@ -58,7 +58,7 @@ Reflective listening means understanding and confirming what the other person is
 
 Assertive communication is about being firm but respectful.  
 
-- Use "I" statements so that you can expresses your feelings without attacking the other person.  
+- Use "I" statements so that you can express your feelings without attacking the other person.  
 - Express your needs in a calm tone without expecting people to guess.  
 - Acknowledge other person's needs before stating your own.  
 - Address issues early without avoiding.  
