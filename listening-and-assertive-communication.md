@@ -1,77 +1,65 @@
-# Active & Reflective Listening + Communication Styles
+# Listening and Active Communication
 
-## 1. Steps/Strategies for Active Listening
+## 1. What are the steps/strategies to do Active Listening?
 
-- Avoid getting distracted by your own thoughts while someone else is speaking  
-- Do not interrupt the speaker while they are talking  
-- Use encouraging phrases to show interest and keep the conversation flowing  
-- Show attentiveness through body language (nodding, maintaining eye contact)  
-- Take notes during important conversations to retain key information  
-- Paraphrase or restate what the speaker said to confirm understanding  
+- Demonstrate attentiveness through appropriate body language (like nodding or eye contact).  
+- Take notes during important conversations to retain key information.  
+- Use encouraging phrases to show interest.  
+- Restate what the speaker said to confirm understanding.  
+- Avoid getting distracted by your own thoughts while listening to someone else.  
+- Do not interrupt the speaker to give a response.
 
----
+## 2. According to Fisher's model, what are the key points of Reflective Listening?
 
-## 2. Key Points of Reflective Listening (Fisher's Model)
+Reflective listening means understanding and confirming what the other person is saying.  
 
-- Focus on understanding and confirming what the other person is saying  
-- Listen carefully without rushing to respond  
-- Repeat or paraphrase the speaker’s message in your own words  
-- Understand emotions, not just the words being spoken  
-- Ask for confirmation to ensure accurate understanding  
-- Avoid adding personal opinions while listening  
-- Make the speaker feel heard and understood  
+- Repeat what the speaker said in your own words.  
+- Try to understand how the person is feeling, not just what they are saying.  
+- Ask for confirmation to check if you understood correctly.  
+- Avoid adding your opinions while listening.  
+- Try to make the speaker feel heard and understood.  
 
----
+## 3. What are the obstacles in your listening process?
 
-## 3. Obstacles in My Listening Process
+- Getting distracted by thoughts.  
+- Thinking about what to reply instead of listening.  
+- Losing focus during long discussions.  
+- If a topic affects me personally, I react emotionally and lose focus on listening objectively.  
+- Trying to process too much data at once.  
 
-- Getting distracted by my own thoughts  
-- Thinking about what to reply instead of listening  
-- Losing focus during long or technical discussions  
-- Emotional reactions when a topic affects me personally  
-- Trying to process too much technical information at once  
+## 4. What can you do to improve your listening?
 
----
+- Practice focusing fully on the speaker.  
+- Take notes in meetings.  
+- Ask clarifying questions.  
+- Being aware of when my mind is drifting to bring my focus back.  
 
-## 4. How I Can Improve My Listening
+## 5. When do you switch to a passive communication style in your day-to-day life?
 
-- Practice focusing fully on the speaker  
-- Take notes during meetings  
-- Ask clarifying questions  
-- Be aware when my mind is drifting and bring focus back  
+- When I disagree with someone senior, but don't feel confident speaking up.  
+- When I want to avoid conflict in a group and just go along with what others decide.  
+- When I feel my opinion might not be taken seriously.  
+- In situations where I feel emotionally drained, I don't have the energy to assert myself.  
 
----
+## 6. When do you switch into Aggressive communication styles in your day-to-day life?
 
-## 5. When I Use Passive Communication
+- When I feel frustrated or stressed.  
+- When deadlines are tight and work is delayed.  
+- When I feel someone is not taking responsibility.  
+- During arguments, when emotions take over.  
 
-- When I disagree with someone senior but don’t feel confident speaking up  
-- When I want to avoid conflict in a group  
-- When I feel my opinion may not be taken seriously  
-- When I feel tired or emotionally drained  
+## 7. When do you switch into passive-aggressive communication styles in your day-to-day life?
 
----
+- When I feel I have been dismissed repeatedly.  
+- When I am under high stress or working under a tight deadline, something goes wrong.  
+- When someone is being dishonest or unfair.  
 
-## 6. When I Use Aggressive Communication
+## 8. How can you make your communication assertive?
 
-- When I feel frustrated or stressed  
-- When deadlines are tight and work is delayed  
-- When I feel someone is not taking responsibility  
-- During arguments when emotions take over  
+Assertive communication is about being firm but respectful.  
 
----
-
-## 7. When I Use Passive-Aggressive Communication
-
-- When I feel ignored or dismissed repeatedly  
-- Under high stress or tight deadlines when things go wrong  
-- When someone is being dishonest or unfair  
-
----
-
-## 8. How to Make My Communication Assertive
-
-- Use "I" statements to express feelings without blaming others  
-- State needs clearly and directly in a calm tone  
-- Listen first and acknowledge the other person’s perspective  
-- Address issues early instead of avoiding them  
-- Maintain confident body language (eye contact, posture, clear speech)  
+- Use "I" statements so that you can expresses your feelings without attacking the other person.  
+- Express your needs in a calm tone without expecting people to guess.  
+- Acknowledge other person's needs before stating your own.  
+- Address issues early without avoiding.  
+- Make eye contact, stand/sit upright, and speak clearly.
