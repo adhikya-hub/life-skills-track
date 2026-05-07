@@ -1,18 +1,23 @@
 # Learning Process
 
 ## Question 1
+
 What is the Feynman Technique? Explain in 1 line.
 
 The Feynman Technique is a learning method where you deeply understand a concept by trying to explain it in simple words as if you are teaching someone else.
 
 ---
 
-##  Question 2
+## Question 2
+
 In this video, what was the most interesting story or idea for you?
 
 The most interesting idea was that our brain works in two modes, focused mode and diffused mode and sometimes taking a break from a problem actually helps us understand it better.
 
+---
+
 ## Question 3
+
 What are active and diffused modes of thinking?
 
 - **Focused Mode:** Its the mode where you think with concentration. Usually when actively solving problems or learning something difficult.
@@ -21,6 +26,7 @@ What are active and diffused modes of thinking?
 ---
 
 ## Question 4
+
 According to the video, what are the steps to take when approaching a new topic? Only mention the points.
 
 1. Deconstruct the skill
@@ -29,8 +35,6 @@ According to the video, what are the steps to take when approaching a new topic?
 4. Practice at least 20 hours  
 
 ---
-
-# Learning Principles in the Bootcamp
 
 ## Question 5
 
