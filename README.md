@@ -1,6 +1,6 @@
 # Life Skills Track
 
-## 1.Technical Communication: Scaling
+## 1. Technical Communication: Scaling
 
 ## 2. Listening and Active Communication
 
