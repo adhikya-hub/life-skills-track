@@ -9,3 +9,7 @@
 ## 4. Grit and Growth mindset
 
 ## 5. Tiny Habits
+
+## 6. Energy Management
+
+## 7. Focus Management
