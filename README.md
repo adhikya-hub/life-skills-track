@@ -13,3 +13,7 @@
 ## 6. Energy Management
 
 ## 7. Focus Management
+
+## 8. Prevention of Sexual Harassment
+
+## 9. Good Practices for Software Development

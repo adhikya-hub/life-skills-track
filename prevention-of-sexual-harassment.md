@@ -14,7 +14,7 @@ Sexual harassment includes any unwelcome verbal, physical, non-verbal, or online
 - Gender-based discrimination, stereotyping, or insulting remarks
 - Abuse of authority that creates a hostile environment or denies equal opportunities based on gender
 - Any behaviour that humiliates, intimidates, threatens, or affects a person’s dignity at work
-- Harassment can happen between.
+- Harassment can happen between any genders.
 
 ---
 
